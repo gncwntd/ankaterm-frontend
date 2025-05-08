@@ -43,8 +43,8 @@ function Header() {
               <div className="flex flex-col">
                 <span className={`text-blue-700 font-bold transition-all ${
                   isScrolled ? 'text-lg sm:text-xl' : 'text-xl sm:text-2xl'
-                }`}>Ankaterm</span>
-                <span className="text-gray-500 text-xs -mt-1">Doğalgaz Hizmetleri</span>
+                }`}>ANKATERM</span>
+                <span className="text-gray-500 text-xs -mt-1">Mühendislik</span>
               </div>
             </Link>
           </div>
